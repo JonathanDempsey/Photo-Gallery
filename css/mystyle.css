@@ -1,0 +1,13 @@
+.hidden{
+display:none;
+}
+.image{
+	width: 500px;
+	height: 250px;
+	object-fit: contain;
+	border: 1px solid black;
+	overflow: hidden
+}
+.photoId{
+display: none;
+}
